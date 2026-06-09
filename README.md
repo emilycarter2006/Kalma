@@ -4,4 +4,4 @@ Kalma is a Windows‑exclusive parametric 3D design software built for creators 
 
 Designed for engineers, designers, students, and anyone curious about building real‑world objects, Kalma offers a smooth workflow, a modern interface, and a strong Python API for automation. Its optimized Windows performance ensures fast, stable, and reliable work on any project.
 
-Install Kalma and step into a powerful environment where your ideas take shape.
+#Install Kalma and step into a powerful environment where your ideas take shape.
